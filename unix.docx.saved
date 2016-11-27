@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="136" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.0" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<styles>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="bgcolor:FFFFFF; lang:ar-SA; font-size:12.000000pt; font-family:Times New Roman; color:000000"/>
+<s type="P" name="Arrowhead List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Block Text" basedon="Normal" props="margin-bottom:6.000000pt; margin-right:72.000000pt; margin-left:72.000000pt"/>
+<s type="P" name="Box List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Bullet List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Chapter Heading" basedon="Numbered Heading 1"/>
+<s type="P" name="Contents 1" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Contents 2" basedon="Normal" props="text-indent:-21.600000pt; margin-left:72.000000pt"/>
+<s type="P" name="Contents 3" basedon="Normal" props="text-indent:-21.600000pt; margin-left:108.000000pt"/>
+<s type="P" name="Contents 4" basedon="Normal" props="text-indent:-21.600000pt; margin-left:144.000000pt"/>
+<s type="P" name="Contents Header" basedon="Normal" props="text-align:center; margin-top:12.000000pt; font-weight:bold; margin-bottom:6.000000pt; font-family:Liberation Sans; font-size:16.000000pt"/>
+<s type="P" name="Dashed List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="C" name="Default Paragraph Font" basedon="Normal"/>
+<s type="P" name="Diamond List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Endnote" basedon="Normal" props="text-indent:-14.400000pt; margin-left:14.400000pt"/>
+<s type="P" name="Footnote" basedon="Normal" props="text-indent:-14.400000pt; font-size:10.000000pt; margin-left:14.400000pt"/>
+<s type="P" name="Hand List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Heart List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="C" name="Hyperlink" basedon="Default Paragraph Font" props="text-decoration:underline; color:0000FF"/>
+<s type="P" name="Implies List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Lower Case List" basedon="Numbered List"/>
+<s type="P" name="Lower Roman List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="No List" basedon="Normal"/>
+<s type="P" name="Normal Table" basedon="Normal"/>
+<s type="P" name="Numbered Heading 1" basedon="heading 1"/>
+<s type="P" name="Numbered Heading 2" basedon="heading 2"/>
+<s type="P" name="Numbered Heading 3" basedon="heading 3"/>
+<s type="P" name="Numbered List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Plain Text" basedon="Normal" props="font-family:Courier New"/>
+<s type="P" name="Section Heading" basedon="Numbered Heading 1"/>
+<s type="P" name="Square List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Star List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Tick List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Triangle List" basedon="Normal" props="text-indent:-21.600000pt; margin-left:36.000000pt"/>
+<s type="P" name="Upper Case List" basedon="Numbered List"/>
+<s type="P" name="Upper Roman List" basedon="Numbered List"/>
+<s type="P" name="_Normal" basedon="Normal"/>
+<s type="C" name="endnote reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="endnote text" basedon="Normal"/>
+<s type="C" name="footnote reference" basedon="Normal" props="text-position:superscript; font-size:10.000000pt"/>
+<s type="P" name="footnote text" basedon="Normal" props="font-size:10.000000pt"/>
+<s type="P" name="heading 1" basedon="Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:17.000000pt"/>
+<s type="P" name="heading 2" basedon="Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans; font-size:14.000000pt"/>
+<s type="P" name="heading 3" basedon="Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans"/>
+<s type="P" name="heading 4" basedon="Normal" props="margin-top:22.000000pt; font-weight:bold; margin-bottom:3.000000pt; font-family:Liberation Sans"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="50" props="page-margin-right:1.000000in; column-line:off; page-margin-left:1.000000in; columns:1; page-margin-top:1.000000in; page-margin-bottom:1.000000in">
+<p xid="51">UNIX Operating System</p>
+<p xid="52"><c></c></p>
+<p xid="53">Origin</p>
+<p xid="54"><c></c></p>
+<p xid="55">The pre-history of Unix dates back to the mid-1960s when the Massachusetts Institute of Technology, Bell Labs, and General Electric were developing an innovative time-sharing operating system called Multics for the GE-645 mainframe. Multics introduced many innovations, but had many problems. Frustrated by the size and complexity of Multics but not by the aims, Bell Labs slowly pulled out of the project. Their last researchers to leave Multics, Ken Thompson, Dennis Ritchie, M. D. McIlroy, and J. F. Ossanna, decided to redo the work on a much smaller scale.</p>
+<p xid="56"><c></c></p>
+<p xid="57">The name Unics (Uniplexed Information and Computing Service, pronounced as "eunuchs"), a pun on Multics (Multiplexed Information and Computer Services), was initially suggested for the project in 1970: the new operating system was an emasculated Multics. Peter H. Salus credits Peter Neumann with the pun, while Brian Kernighan claims the coining for himself, and adds that "no one can remember" who came up with the final spelling Unix. Dennis Ritchie also credits Kernighan.</p>
+<p xid="58"><c></c></p>
+<p xid="59">Developers</p>
+<p xid="60"><c></c></p>
+<p xid="61">Dennis Ritchie - He created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system.</p>
+<p xid="62"><c></c></p>
+<p xid="63">Ken Thompson - Having worked at Bell Labs for most of his career, Thompson designed and implemented the original Unix operating system. He also invented the B programming language, the direct predecessor to the C programming language, and was one of the creators and early developers of the Plan 9 operating systems.</p>
+<p xid="64"><c></c></p>
+<p xid="65">Brian Wilson Kernighan</p>
+<p xid="66">M. D. Mcllroy</p>
+<p xid="67">Joe Ossanna</p>
+<p xid="68"><c></c></p>
+<p xid="69">Versions</p>
+<p xid="136"><c>﻿</c></p>
+<table xid="1">
+<cell xid="2" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p xid="3"><c>1st Edition</c></p>
+</cell>
+<cell xid="5" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p xid="6"><c>Nov. 3, 1971</c></p>
+</cell>
+<cell xid="8" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p xid="9"><c>First edition of the Unix manual, based on the version that ran on the PDP-11 at the time. Includes the Thompson shell, mail, cp, and su. The operating system was two years old, having been ported from the PDP-7 to the PDP-11/20 in 1970.</c></p>
+</cell>
+<cell xid="11" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p xid="12"><c>2nd Edition</c></p>
+</cell>
+<cell xid="14" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p xid="15"><c>Jun. 12, 1972</c></p>
+</cell>
+<cell xid="17" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p xid="18"><c>Total number of installations at the time was 10, "with more expected", according to the preface of the manual.:ii Includes echo and the first C compiler.</c></p>
+</cell>
+<cell xid="20" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p xid="21"><c>3rd Edition</c></p>
+</cell>
+<cell xid="23" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p xid="24"><c>Feb. 1973</c></p>
+</cell>
+<cell xid="26" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p xid="27"><c>Introduced the C programming language, pipes, crypt, and yacc. Commands are split between /bin and /usr/bin, requiring a search path (/usr was the mountpoint for a second hard disk). Total number of installations was 16.</c></p>
+</cell>
+<cell xid="29" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p xid="30"><c>4th Edition</c></p>
+</cell>
+<cell xid="32" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p xid="33"><c>Nov. 1973</c></p>
+</cell>
+<cell xid="35" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p xid="36"><c>First version written in C. Also introduced groups, grep, and printf. Number of installations was listed as "above 20". The manual was formatted with troff for the first time. Version described in Thompson and Ritchie's CACM paper, the first public exposition of the operating system.</c></p>
+</cell>
+<cell xid="38" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p xid="39"><c>5th Edition</c></p>
+</cell>
+<cell xid="41" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p xid="42"><c>Jun. 1974</c></p>
+</cell>
+<cell xid="44" props="bot-attach:5; left-attach:2; right-attach:3; top-attach:4">
+<p xid="45"><c>Widely licensed to educational institutions. Introduced find, dd, and the sticky bit. Targeted the PDP-11/40 and other 11 models with 18 bit addresses. Installations "above 50".</c></p>
+</cell>
+</table>
+<p style="Normal" xid="48"><c>﻿</c></p>
+<table xid="87">
+<cell xid="88" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p xid="89"><c>6th Edition</c></p>
+</cell>
+<cell xid="91" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p xid="92"><c>May 1975</c></p>
+</cell>
+<cell xid="94" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p xid="95"><c>Includes ratfor and bc.[3] First version to be also licensed to commercial users,[1] and to be ported to non-PDP hardware. May 1977 saw the release of MINI-UNIX, a "cut down" v6 for the low-end PDP-11/10.</c></p>
+</cell>
+<cell xid="97" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p xid="98"><c>7th Edition</c></p>
+</cell>
+<cell xid="100" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p xid="101"><c>Jan. 1979</c></p>
+</cell>
+<cell xid="103" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p xid="104"><c>Includes the Bourne shell, cpio, sed, ioctl, awk, f77, spell, stdio and pcc replacing the Dennis Ritchie's C compiler.[3] The ancestor of all modern UNIX systems and the last release of Research Unix to see widespread external distributions. Merged most of the utilities of PWB/UNIX with an extensively modified kernel with almost 80% more lines of code than V6. In February, a port called 32V was made to DEC's VAX hardware; 32V was the basis for 4BSD.</c></p>
+</cell>
+<cell xid="106" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p xid="107"><c>8th Edition</c></p>
+</cell>
+<cell xid="109" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p xid="110"><c>Feb. 1985[citation needed]</c><c props=""></c></p>
+</cell>
+<cell xid="112" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p xid="113"><c>A modified 4.1cBSD for the VAX, with a System V shell and sockets replaced by Streams. Used internally, and only licensed for educational use.[6] The Blit graphics terminal became the primary user interface.[3] Added a network filesystem that allowed accessing remote computers' files as /n/hostname/path, and a regular expression library that introduced an API later mimicked by Henry Spencer's reimplementation.[7] First version with no assembly in the documentation.[3]</c><c props=""></c></p>
+</cell>
+<cell xid="115" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p xid="116"><c>9th Edition</c></p>
+</cell>
+<cell xid="118" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p xid="119"><c>Sep. 1986</c></p>
+</cell>
+<cell xid="121" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p xid="122"><c>Incorporated code from 4.3BSD; used internally. Featured a generalized version of the Streams IPC mechanism introduced in V8. The mount system call was extended to connect a stream to a file, the other end of which could be connected to a (user-level) program. This mechanism was used to implement network connection code in userspace.[8] Other innovations include make and Sam.[3] According to Dennis Ritchie, V9 and V10 were "conceptual": manuals existed, but no OS distributions "in complete and coherent form".[6]</c><c props=""></c></p>
+</cell>
+<cell xid="124" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p xid="125"><c>10th Edition</c></p>
+</cell>
+<cell xid="127" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p xid="128"><c>Oct. 1989</c></p>
+</cell>
+<cell xid="130" props="bot-attach:5; left-attach:2; right-attach:3; top-attach:4">
+<p xid="131"></p>
+<p style="Normal" xid="49"><c></c></p>
+<p xid="71"><c></c></p>
+<p xid="72"><c></c></p>
+<p xid="73">Sources:</p>
+<p xid="74"><a xlink:href="https://en.wikipedia.org/wiki/Unix" xid="75"><c props="font-weight:bold">https://en.wikipedia.org/wiki/Unix</c></a></p>
+<p xid="77"><a xlink:href="https://en.wikipedia.org/wiki/Dennis_Ritchie" xid="78"><c props="font-weight:bold">https://en.wikipedia.org/wiki/Dennis_Ritchie</c></a></p>
+<p xid="80"><a xlink:href="https://en.wikipedia.org/wiki/Ken_Thompson" xid="81"><c props="font-weight:bold">https://en.wikipedia.org/wiki/Ken_Thompson</c></a></p>
+<p xid="83"><c props="font-weight:bold">http://www.unix.org/what_is_unix/history_timeline</c></p>
+<p xid="85" props="text-align:left; dom-dir:ltr"><c>https://en.wikipedia.org/wiki/Research_Unix#Versions</c></p>
+<p xid="86" props="text-align:left; dom-dir:ltr"><c></c></p>
+</section>
+</abiword>
